@@ -1,0 +1,107 @@
+body {
+  background-color:#ffffff;
+     }
+
+h1 {
+  color: #cc0e74;
+}
+
+h3 {
+  color: #cc0e74;
+}
+
+hr   {
+     border-style:none;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+     height: 5px;
+     width: 5%;
+   }
+
+img  {
+     height: 170px;
+   }
+
+/*Call to Action*/
+#cta {
+ background-color: #f3f2da;
+ text-align: center;
+ padding: 5% 10%;
+}
+.cta-box {
+  text-align: center;
+}
+.web {
+  float: right;
+}
+.cta-link:hover {
+  color: #cc0e74;
+}
+.cont {
+  float: left;
+}
+.contact-details:hover {
+  color: #cc0e74;
+}
+.company:hover {
+  color: #cc0e74;
+}
+
+   /*footer-section*/
+   #footer {
+     background-color: #f5f4f4;
+     padding: 5% 10%;
+     text-align: center;
+   }
+
+   .footer-icon {
+     color:  #1687a7;
+     margin: 20px 30px;
+   }
+   .footer-icon:hover {
+     color: #0f0f0f;
+   }
+
+   .contact-details {
+   	-moz-box-shadow: -1px 0px 0px 0px #f0f7fa;
+   	-webkit-box-shadow: -1px 0px 0px 0px #f0f7fa;
+   	box-shadow: -1px 0px 0px 0px #f0f7fa;
+   	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #33bdef), color-stop(1, #019ad2) );
+   	background:-moz-linear-gradient( center top, #33bdef 5%, #019ad2 100% );
+   	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#33bdef', endColorstr='#019ad2');
+   	background-color:#33bdef;
+   	-webkit-border-top-left-radius:9px;
+   	-moz-border-radius-topleft:9px;
+   	border-top-left-radius:9px;
+   	-webkit-border-top-right-radius:9px;
+   	-moz-border-radius-topright:9px;
+   	border-top-right-radius:9px;
+   	-webkit-border-bottom-right-radius:9px;
+   	-moz-border-radius-bottomright:9px;
+   	border-bottom-right-radius:9px;
+   	-webkit-border-bottom-left-radius:9px;
+   	-moz-border-radius-bottomleft:9px;
+   	border-bottom-left-radius:9px;
+   text-indent:0;
+   	display:inline-block;
+   	color:#ffffff;
+   	font-family:'Montserrat', sans-serif;
+   	font-size:20px;
+   	font-weight:bold;
+   	font-style:normal;
+   height:56px;
+   	line-height:56px;
+   width:250px;
+   	text-decoration:none;
+   	text-align:center;
+   	text-shadow:0px 0px 0px #5b6178;
+   }.contact-details:hover {
+   	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #019ad2), color-stop(1, #33bdef) );
+   	background:-moz-linear-gradient( center top, #019ad2 5%, #33bdef 100% );
+   	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#019ad2', endColorstr='#33bdef');
+   	background-color:#019ad2;
+   }.contact-details:active {
+   	position:relative;
+   	top:1px;
+   }
